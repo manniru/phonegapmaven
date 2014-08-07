@@ -1,0 +1,13 @@
+<settings>
+
+  <server>
+	<id>phonegap-build</id>
+	<username>a@b.com</username>
+	<password>123</password> 
+</server>
+<properties>
+	<phonegap-build.username>a@b.com</phonegap-build.username>
+	<phonegap-build.password>123</phonegap-build.password>
+</properties>
+
+</settings>

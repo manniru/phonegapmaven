@@ -1,0 +1,4 @@
+phonegapmaven
+=============
+
+Phonegap Maven Project
